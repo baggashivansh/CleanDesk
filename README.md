@@ -81,7 +81,7 @@ Optional lightweight desktop interface
 
 ### Accomplish Automation Output
 
-![Automation Result](screenshots/AccomplishUi.png.png)
+![Automation Result](screenshots/AccomplishUi.png)
 
 ## Future Scope
 
